@@ -2,7 +2,7 @@
  
 # Snake-Game. 
 ***Project uploaded to AWS Amplify: <br/>
-[Play](https://master.dmcgq43ky8zzg.amplifyapp.com)***
+[Play-The-Game](https://master.dmcgq43ky8zzg.amplifyapp.com)***
 
 ### Built With
  [![React][React.js]][React-url]
