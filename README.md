@@ -1,7 +1,8 @@
 <div align="center">
  
 # Snake-Game. 
-***Project uploaded to AWS Amplify: [Play](https://master.dmcgq43ky8zzg.amplifyapp.com)***
+***Project uploaded to AWS Amplify: <br/>
+[Play](https://master.dmcgq43ky8zzg.amplifyapp.com)***
 
 ### Built With
  [![React][React.js]][React-url]
