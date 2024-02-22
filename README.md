@@ -2,7 +2,7 @@
  
 # Snake-Game. 
 ### ***Project uploaded to AWS Amplify***
-### ***[Play-Game](https://master.dmcgq43ky8zzg.amplifyapp.com)***
+### ***[Play-Game](https://snake-game-one-ruddy.vercel.app/)***
 
 ### Built With
  [![React][React.js]][React-url]
